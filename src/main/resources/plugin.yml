@@ -1,0 +1,7 @@
+name: DungeonPass
+version: ${project.version}
+main: dekitateserver_event.dungeonpass.DungeonPass
+api-version: 1.13
+prefix: DP
+authors: [maeshow]
+description: Dekitate Server Event Plugin
