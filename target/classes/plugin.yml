@@ -1,5 +1,5 @@
 name: DungeonPass
-version: ${project.version}
+version: 1.0
 main: dekitateserver_event.dungeonpass.DungeonPass
 api-version: 1.13
 prefix: DP

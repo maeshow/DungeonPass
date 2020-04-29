@@ -1,0 +1,5 @@
+dekitateserver_event\dungeonpass\Config.class
+dekitateserver_event\dungeonpass\DungeonPass.class
+dekitateserver_event\dungeonpass\StatusRecord.class
+dekitateserver_event\dungeonpass\DPCommands.class
+dekitateserver_event\dungeonpass\Event.class
